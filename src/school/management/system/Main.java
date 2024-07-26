@@ -3,9 +3,7 @@ package school.management.system;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Rakshith on 4/3/2017.
- */
+
 public class Main {
     public static void main(String[] args) {
         Teacher lizzy = new Teacher(1,"Lizzy",500);

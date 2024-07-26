@@ -3,9 +3,7 @@ package arlist;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Rakshith on 4/13/2017.
- */
+
 public class Main {
         public static void main(String[] args) {
 

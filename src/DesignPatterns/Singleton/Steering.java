@@ -1,8 +1,6 @@
 package DesignPatterns.Singleton;
 
-/**
- * Created by Rakshith on 4/18/2017.
- */
+
 public class Steering {
     private String size;
     private volatile static Steering uniqueInstance  = new Steering();

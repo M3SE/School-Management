@@ -1,8 +1,6 @@
 package DesignPatterns.Factory;
 
-/**
- * Created by Rakshith on 4/21/2017.
- */
+
 public class BikeShowRoom {
     public static void main(String[] args) {
         String bikeName = "SportsBike";

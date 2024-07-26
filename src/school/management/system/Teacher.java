@@ -1,10 +1,6 @@
 package school.management.system;
 
-/**
- * Created by Rakshith on 4/3/2017.
- * This class is responsible for keeping the track
- * of teacher's name, id, salary.
- */
+
 public class Teacher {
 
     private int id;

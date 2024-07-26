@@ -1,8 +1,6 @@
 package DesignPatterns.StrategyPattern;
 
-/**
- * Created by Rakshith on 4/18/2017.
- */
+
 public class RussianStudent extends Student {
     public RussianStudent(String name) {
         super(name);

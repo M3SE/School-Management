@@ -2,12 +2,7 @@ package school.management.system;
 
 import java.util.List;
 
-/**
- * Many teachers, many students.
- * Implements teachers and student
- * using an ArrayList.
- * Created by Rakshith on 4/3/2017.
- */
+
 public class School {
 
     private List<Teacher> teachers;

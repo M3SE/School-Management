@@ -1,8 +1,6 @@
 package DesignPatterns.Decorator.Pattern.CarExtensions;
 
-/**
- * Created by Rakshith on 4/21/2017.
- */
+
 public class CushionSeat implements CarExtension {
     CarExtension carExtension;
 

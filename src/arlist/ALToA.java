@@ -6,9 +6,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Created by Rakshith on 4/14/2017.
- */
+
 public class ALToA{
 
     public static void main(String[] args) {

@@ -1,8 +1,6 @@
 package DesignPatterns.Singleton;
 
-/**
- * Created by Rakshith on 4/18/2017.
- */
+
 public class Main {
     public static void main(String[] args) {
         Steering steering1 = Steering.getUniqueInstance();
